@@ -1,0 +1,30 @@
+body{
+    box-sizing: border-box;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.header{
+    max-width: 1920px;
+    height: 400px;
+    background: url(../image/hero.png) no-repeat center center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.story{
+    
+    color: white;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.story h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.story h2{
+    font-size: 28px;
+    font-weight: bold;
+}
