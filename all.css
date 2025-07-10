@@ -140,7 +140,7 @@ body{
 
 /*頁面樣式設定*/
 .header{
-    background-image: url(/image/hero.png);
+    background-image: url(image/hero.png);
     background-repeat:  no-repeat;
     background-size: cover;
     background-position: center;
